@@ -7,19 +7,20 @@ DATA
 
 COMPUTER CODE
 Python 3.7.3 was used on linux with the following packages:
-	Numpy	1.16.2
-	Scipy		1.2.1
-	Numba		0.43.1
-	RIOS		1.4.8
-	gdal		2.4.0	
-	matplotlib	3.0.3
-	prettytable	0.7
-
-    (1) startSimulation.py: script to set data and results directories, number of iteration, and intiate the simulation.
-    (2) pheromone/params.py: script to set parameters for simulation.
-    (3) pheromone/calculation.py: script that runs the simulation and writes results to directory. 
-    (4) postSimulation.py: script to initiate the processing of results from simulation.
-    (5) pheromone/calcresults.py: script with functions to process results.
+	(1) Packages
+ 		(A) Numpy		1.16.2
+		(B) Scipy		1.2.1
+		(C) Numba		0.43.1
+		(D) RIOS		1.4.8
+		(E) gdal		2.4.0	
+		(F) matplotlib	3.0.3
+		(G) prettytable	0.7
+	(2) Scripts
+	    (A) startSimulation.py: script to set data and results directories, number of iteration, and intiate the simulation.
+    	(B) pheromone/params.py: script to set parameters for simulation.
+    	(C) pheromone/calculation.py: script that runs the simulation and writes results to directory. 
+    	(D) postSimulation.py: script to initiate the processing of results from simulation.
+    	(E) pheromone/calcresults.py: script with functions to process results.
 
 MOVIES 
     (1) movie.wmv: Video file that demonstrates movement, survival, trapping, reproduction and decoy deployment. The following symbols are used in the video:
