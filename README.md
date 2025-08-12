@@ -2,7 +2,9 @@
 Supporting material for manuscript submitted to "Ecology and Evolution", entitled, "Can a mate-finding Allee effect be elicited to help eradicate invasive mammals?"
 
 DATA
+
     (1) ressy.img:  Erdas Imagine raster file of Resolution Island at 10-metre resolution projected in epsg:27200.
+	
     (2) ressyalldatatraploc5.csv:  Eastings and northing of traps used in study.
 
 COMPUTER CODE
