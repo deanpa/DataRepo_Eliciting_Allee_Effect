@@ -12,8 +12,6 @@ Supporting material for the manuscript submitted to *Ecology and Evolution*, ent
 2. **ressyalldatatraploc5.csv**  
    - Eastings and northings of traps used in the study.
 
----
-
 ## Computer Code
 
 Python **3.7.3** was used on Linux with the following packages and scripts.
@@ -44,8 +42,6 @@ Python **3.7.3** was used on Linux with the following packages and scripts.
 
 5. **pheromone/calcresults.py**  
    - Functions to process results.
-
----
 
 ## Movies
 
